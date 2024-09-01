@@ -36,67 +36,73 @@ You can click below to send an email about your talks if you like. Make sure to 
 > Shell
 
 🎨 Frontend Stack:
-    JavaScript: 
-        > React 
-        > Next.js 
-        > Pug
+
+JavaScript: 
+> React 
+> Next.js 
+> Pug
     
-    PHP: 
-        > Blade
+PHP: 
+> Blade
     
-    JAVA: 
-        > ThymeLeaf
+JAVA: 
+> ThymeLeaf
     
 🀫 Backend Stack:
-    JavaScript: 
-        > Node 
-        > Express 
-        > Nest.js 
-        > GraphQL
-    
-    PHP: 
-        > Laravel
-    
-    Java: 
-        > Spring 
-        > SpringBoot
-    
-    Python: 
-        > Django
-    
+
+JavaScript: 
+> Node 
+> Express 
+> Nest.js 
+> GraphQL
+
+PHP: 
+> Laravel
+
+Java: 
+> Spring 
+> SpringBoot
+
+Python: 
+> Django
+
 📱 Mobile Stack:
-    type: 
-        > Android 
-        > IOS
-    
-    JavaScript: 
-        > React Native
+
+type: Android & IOS
+
+JavaScript: 
+> React Native
     
 🤖 Machine Learning Stack:
-    Python: 
-        > Tensorflow 
-        > OpenCV 
-        > MediaPipe
+
+Python:
+> Tensorflow 
+> OpenCV 
+> MediaPipe
     
 🔭 DevOps Stack:
-    > Docker 
-    > AWS 
-    > Nginx
+
+> Docker 
+> AWS 
+> Nginx
 
 📈 Databases Stack:
-    > MongoDB 
-    > MySQL 
-    > SQLite 
-    > PostgreSQL 
-    > Firebase
+
+> MongoDB 
+> MySQL 
+> SQlite 
+> PostgreSQL 
+> Firebase
 
 🔥 Editors: 
+
 > VS Code
 > Android Studio
 > IntelliJ IDEA Ultimate
 > Zed
 
 💻 Operating System: 
+
 > Mac
 > Windows
 
