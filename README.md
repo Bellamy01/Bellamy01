@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif" width="50"/> Hi, I'm Dan Bellamy BIRAMAHIRE! </h2>
-<img align='right' src="https://media.giphy.com/media/Nn97Knvcol0rENwFk5/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/Nn97Knvcol0rENwFk5/giphy.gif" width="230"> -->
 <p><em><img src="https://media.giphy.com/media/kkcdw2s1OOtKjdeHXW/giphy.gif" width="50"> Frontend & Backend Engineer </em></p>
 
 ### <p><em><img src="https://media.giphy.com/media/E4mDbvI2NqbHO0rUXh/giphy.gif" width="25"/> Want to connect?</em></p>
