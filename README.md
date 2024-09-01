@@ -4,7 +4,7 @@
 
 ### <p><em><img src="https://media.giphy.com/media/E4mDbvI2NqbHO0rUXh/giphy.gif" width="25"/> Want to connect?</em></p>
 
-Click below to send an email about your discussions. Just be specific when stating your purpose.
+You can click below to send an email about your talks if you like. Make sure to be specific about your topic.
 
 <a href="mailto:bdanbellamy@gmail.com?subject=Project Discussions - A message from Github Connections" target="_blank" ><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="50" border-color="white" /></a>
 
@@ -86,7 +86,7 @@ Click below to send an email about your discussions. Just be specific when stati
 📈 Databases Stack:
     > MongoDB 
     > MySQL 
-    > SQlite 
+    > SQLite 
     > PostgreSQL 
     > Firebase
 
@@ -100,9 +100,4 @@ Click below to send an email about your discussions. Just be specific when stati
 > Mac
 > Windows
 
-```
-
-⏰ Updates
-```
-Last updated on Sunday, September 1, 2024 1:11 PM CAT
 ```
