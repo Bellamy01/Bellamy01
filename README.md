@@ -100,6 +100,9 @@ Python:
 > Android Studio
 > IntelliJ IDEA Ultimate
 > Zed
+> Cursor
+> Trae
+> Fleet
 
 💻 Operating System: 
 
